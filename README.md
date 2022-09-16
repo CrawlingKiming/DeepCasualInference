@@ -1,3 +1,5 @@
-# DeepCasualInference
+# Deep-Casual-Inference with Time Series
 
-Caucual Inference Using Time Series Deep learning. 
+Casual Inference Using Time Series Deep learning. 
+
+
